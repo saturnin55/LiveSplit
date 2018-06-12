@@ -4139,4 +4139,15 @@
     <Description>Automatic Start and Autosplitting for Normal mode using Emulator FCEUX version 2.2.2+. Splits on boss kills.</Description>
     <Website>https://github.com/Coltaho/Autosplitters/</Website>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Chip 'N Dale: Rescue Rangers</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/saturnin55/ChipnDaleAutoSplitter/master/chipndale.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Automatic Start/Reset, Autosplitter for Any%/All Zones using Emulator FCEUX version 2.2.3+. (by saturnin55)</Description>
+    <Website>https://github.com/saturnin55/ChipnDaleAutoSplitter</Website>
+  </AutoSplitter>
 </AutoSplitters>
